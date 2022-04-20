@@ -1,0 +1,19 @@
+body {
+  background-color: #EFFFFD;
+}
+#heading {
+  border-radius: 20%;
+}
+hr { 
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(199, 199, 199);
+  width: 5%;
+  border-width: 5px;
+}
+h1 {
+  color: #A1E3D8;
+}
+h3 {
+  color: #A1E3D8;
+}
